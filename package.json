@@ -1,0 +1,19 @@
+{
+  "name": "demeters-utopia",
+  "version": "1.0.0",
+  "description": "A hunter gatherer game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colefranz/demeters-utopia.git"
+  },
+  "author": "Cole Franz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colefranz/demeters-utopia/issues"
+  },
+  "homepage": "https://github.com/colefranz/demeters-utopia#readme"
+}
