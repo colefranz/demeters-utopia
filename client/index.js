@@ -1,25 +1,15 @@
 import Phaser from 'phaser';
 
-var config = {
+const config = {
     type: Phaser.AUTO,
     width: 800,
     height: 600,
-    scene: {
-        preload: preload,
-        create: create,
-        update: update
-    }
+    scene: {preload, create, update}
 };
 
-var game = new Phaser.Game(config);
+const game = new Phaser.Game(config);
 
-function preload ()
-{
+function preload() {}
+function create() {}
 
-function create ()
-{
-}
-
-function update ()
-{
-}
+function update() {}
